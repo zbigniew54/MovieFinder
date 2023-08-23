@@ -1,6 +1,5 @@
-// OMDb API: http://www.omdbapi.com/?i=tt3896198&apikey=ff29a9f5
 const OMDB_API_URL = "https://www.omdbapi.com"
-const OMDB_API_KEY = "ff29a9f5"
+const OMDB_API_KEY = ""
 
 // search movie by title
 // onFind( resultsArr )
